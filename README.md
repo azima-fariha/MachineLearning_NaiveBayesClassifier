@@ -15,7 +15,11 @@ The program accepts the following parameters:
 The program is run from Command line or Terminal as shown below:
 "python3 nb.py --data Example.tsv --output Example_NB_Solution.tsv"
 
-## Formulas
+## Notes
 
-The formulas that is being used to write the program are given below:
+This program is done from scratch using very simple and basic libraries of python without any optimizations or shortcuts. I have done it in this way so that each and every step is clear to me regarding the algorithm. This is one my assignments from the Machine Learning course of my university.
+
+## Acknowledgements
+
+
 

@@ -20,6 +20,6 @@ The program is run from Command line or Terminal as shown below:
 This program is done from scratch using very simple and basic libraries of python without any optimizations or shortcuts. I have done it in this way so that each and every step is clear to me regarding the algorithm. This is one my assignments from the Machine Learning course of my university.
 
 ## Acknowledgements
-
+This assignment question was prepared by Otto von Guericke University, Magdeburg.
 
 

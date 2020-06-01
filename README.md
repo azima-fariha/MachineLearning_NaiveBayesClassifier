@@ -14,3 +14,8 @@ The program accepts the following parameters:
 2. output - Where the output tsv should be written to.
 The program is run from Command line or Terminal as shown below:
 "python3 nb.py --data Example.tsv --output Example_NB_Solution.tsv"
+
+## Formulas
+
+The formulas that is being used to write the program are given below:
+
